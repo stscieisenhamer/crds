@@ -938,6 +938,36 @@
             "tpn":"miri_mask.tpn",
             "unique_rowkeys":null
         },
+        "pars-detector1pipeline":{
+            "classes":[
+                "Match",
+                "UseAfter"
+            ],
+            "derived_from":"Hand made 2019-09-24",
+            "extra_keys":null,
+            "file_ext":".asdf",
+            "filekind":"PARS-DETECTOR1PIPELINE",
+            "filetype":"PARS-DETECTOR1PIPELINE",
+            "instrument":"MIRI",
+            "ld_tpn":"miri_pars-detector1pipeline_ld.tpn",
+            "mapping":"REFERENCE",
+            "name":"jwst_miri_pars-detector1pipeline.rmap",
+            "observatory":"JWST",
+            "parkey":[
+                [
+                    "META.EXPOSURE.TYPE"
+                ],
+                [
+                    "META.OBSERVATION.DATE",
+                    "META.OBSERVATION.TIME"
+                ]
+            ],
+            "sha1sum":"4e481e30dfb4b62d747cd535f45fd02ec02f1e25",
+            "suffix":"pars-detector1pipeline",
+            "text_descr":"Parameters for calibration pipeline Detector1Pipeline",
+            "tpn":"miri_pars-detector1pipeline.tpn",
+            "unique_rowkeys":null
+        },
         "pars-refpixstep":{
             "classes":[
                 "Match",
@@ -966,36 +996,6 @@
             "suffix":"pars-refpixstep",
             "text_descr":"MIRI imager refpixstep parameters",
             "tpn":"miri_pars-refpixstep.tpn",
-            "unique_rowkeys":null
-        },
-        "pars-tweakreg":{
-            "classes":[
-                "Match",
-                "UseAfter"
-            ],
-            "derived_from":"Hand made 2019-07-16",
-            "extra_keys":null,
-            "file_ext":".asdf",
-            "filekind":"PARS-TWEAKREG",
-            "filetype":"PARS-TWEAKREG",
-            "instrument":"MIRI",
-            "ld_tpn":"miri_pars-tweakreg_ld.tpn",
-            "mapping":"REFERENCE",
-            "name":"jwst_miri_pars-tweakreg.rmap",
-            "observatory":"JWST",
-            "parkey":[
-                [
-                    "META.EXPOSURE.TYPE"
-                ],
-                [
-                    "META.OBSERVATION.DATE",
-                    "META.OBSERVATION.TIME"
-                ]
-            ],
-            "sha1sum":"01ff24a6ed037c46b2b9c201a9be83e8efe09aaa",
-            "suffix":"pars-tweakreg",
-            "text_descr":"MIRI imager tweakreg parameters",
-            "tpn":"miri_pars-tweakreg.tpn",
             "unique_rowkeys":null
         },
         "pathloss":{
