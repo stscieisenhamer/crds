@@ -1,0 +1,20 @@
+header = {
+    'classes' : ('Match', 'UseAfter'),
+    'derived_from' : 'Hand made 2019-09-25',
+    'file_ext' : '.asdf',
+    'filekind' : 'PARS-SKYMATCHSTEP',
+    'filetype' : 'PARS-SKYMATCHSTEP',
+    'instrument' : 'NIRCAM',
+    'ld_tpn' : 'nircam_pars-skymatchstep_ld.tpn',
+    'mapping' : 'REFERENCE',
+    'name' : 'jwst_nircam_pars-skymatchstep.rmap',
+    'observatory' : 'JWST',
+    'parkey' : (('META.EXPOSURE.TYPE',), ('META.OBSERVATION.DATE', 'META.OBSERVATION.TIME')),
+    'sha1sum' : '88c1fbea9060f40df2eaf202556038e82401375d',
+    'suffix' : 'pars-skymatchstep',
+    'text_descr' : 'NIRCAM imaging outlier detection params',
+    'tpn' : 'nircam_pars-skymatchstep.tpn',
+}
+
+selector = Match({
+})

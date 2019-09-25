@@ -1,0 +1,20 @@
+header = {
+    'classes' : ('Match', 'UseAfter'),
+    'derived_from' : 'Hand made 2019-09-25',
+    'file_ext' : '.asdf',
+    'filekind' : 'PARS-OUTLIERDETECTIONSTEP',
+    'filetype' : 'PARS-OUTLIERDETECTIONSTEP',
+    'instrument' : 'MIRI',
+    'ld_tpn' : 'miri_pars-outlierdetectionstep_ld.tpn',
+    'mapping' : 'REFERENCE',
+    'name' : 'jwst_miri_pars-outlierdetectionstep.rmap',
+    'observatory' : 'JWST',
+    'parkey' : (('META.EXPOSURE.TYPE',), ('META.OBSERVATION.DATE', 'META.OBSERVATION.TIME')),
+    'sha1sum' : 'c43d3f82caa9f1d6953e6464c29cd2156d48cc4c',
+    'suffix' : 'pars-outlierdetectionstep',
+    'text_descr' : 'MIRI imaging outlier detection params',
+    'tpn' : 'miri_pars-outlierdetectionstep.tpn',
+}
+
+selector = Match({
+})

@@ -1,0 +1,20 @@
+header = {
+    'classes' : ('Match', 'UseAfter'),
+    'derived_from' : 'Hand made 2019-09-25',
+    'file_ext' : '.asdf',
+    'filekind' : 'PARS-OUTLIERDETECTIONSTEP',
+    'filetype' : 'PARS-OUTLIERDETECTIONSTEP',
+    'instrument' : 'NIRCAM',
+    'ld_tpn' : 'nircam_pars-outlierdetectionstep_ld.tpn',
+    'mapping' : 'REFERENCE',
+    'name' : 'jwst_nircam_pars-outlierdetectionstep.rmap',
+    'observatory' : 'JWST',
+    'parkey' : (('META.EXPOSURE.TYPE',), ('META.OBSERVATION.DATE', 'META.OBSERVATION.TIME')),
+    'sha1sum' : '0d325c13d9d4900500eadcb38a09f4c2c139b2c8',
+    'suffix' : 'pars-outlierdetectionstep',
+    'text_descr' : 'NIRCAM imaging outlier detection params',
+    'tpn' : 'nircam_pars-outlierdetectionstep.tpn',
+}
+
+selector = Match({
+})

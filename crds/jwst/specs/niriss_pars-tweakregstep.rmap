@@ -1,0 +1,20 @@
+header = {
+    'classes' : ('Match', 'UseAfter'),
+    'derived_from' : 'Hand made 2019-09-25',
+    'file_ext' : '.asdf',
+    'filekind' : 'PARS-TWEAKREGSTEP',
+    'filetype' : 'PARS-TWEAKREGSTEP',
+    'instrument' : 'NIRISS',
+    'ld_tpn' : 'niriss_pars-tweakregstep_ld.tpn',
+    'mapping' : 'REFERENCE',
+    'name' : 'jwst_niriss_pars-tweakregstep.rmap',
+    'observatory' : 'JWST',
+    'parkey' : (('META.EXPOSURE.TYPE',), ('META.OBSERVATION.DATE', 'META.OBSERVATION.TIME')),
+    'sha1sum' : '2c3c73dbfebdba76f3453f7d1384b114bf430d63',
+    'suffix' : 'pars-tweakregstep',
+    'text_descr' : 'NIRISS imaging outlier detection params',
+    'tpn' : 'niriss_pars-tweakregstep.tpn',
+}
+
+selector = Match({
+})
