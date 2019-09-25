@@ -1,0 +1,20 @@
+header = {
+    'classes' : ('Match', 'UseAfter'),
+    'derived_from' : 'Hand made 2019-09-25',
+    'file_ext' : '.asdf',
+    'filekind' : 'PARS-SOURCECATALOGSTEP',
+    'filetype' : 'PARS-SOURCECATALOGSTEP',
+    'instrument' : 'MIRI',
+    'ld_tpn' : 'miri_pars-sourcecatalogstep_ld.tpn',
+    'mapping' : 'REFERENCE',
+    'name' : 'jwst_miri_pars-sourcecatalogstep.rmap',
+    'observatory' : 'JWST',
+    'parkey' : (('META.EXPOSURE.TYPE',), ('META.OBSERVATION.DATE', 'META.OBSERVATION.TIME')),
+    'sha1sum' : '39cf8346a81dd9f682f14798b313b2b2cd1d6daf',
+    'suffix' : 'pars-sourcecatalogstep',
+    'text_descr' : 'MIRI imaging outlier detection params',
+    'tpn' : 'miri_pars-sourcecatalogstep.tpn',
+}
+
+selector = Match({
+})
