@@ -1,6 +1,6 @@
 header = {
     'classes' : ('Match', 'UseAfter'),
-    'derived_from' : 'Hand made 2019-09-25',
+    'derived_from' : 'Created on 2019-09-25',
     'file_ext' : '.asdf',
     'filekind' : 'PARS-SOURCECATALOGSTEP',
     'filetype' : 'PARS-SOURCECATALOGSTEP',
@@ -10,9 +10,8 @@ header = {
     'name' : 'jwst_niriss_pars-sourcecatalogstep.rmap',
     'observatory' : 'JWST',
     'parkey' : (('META.EXPOSURE.TYPE',), ('META.OBSERVATION.DATE', 'META.OBSERVATION.TIME')),
-    'sha1sum' : 'c3e14877f50835a56d3203a0f330406c2c97727a',
     'suffix' : 'pars-sourcecatalogstep',
-    'text_descr' : 'NIRISS imaging outlier detection params',
+    'text_descr' : 'Source_catalog params',
     'tpn' : 'niriss_pars-sourcecatalogstep.tpn',
 }
 
