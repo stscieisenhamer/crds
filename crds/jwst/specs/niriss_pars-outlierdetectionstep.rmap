@@ -10,6 +10,7 @@ header = {
     'name' : 'jwst_niriss_pars-outlierdetectionstep.rmap',
     'observatory' : 'JWST',
     'parkey' : (('META.EXPOSURE.TYPE',), ('META.OBSERVATION.DATE', 'META.OBSERVATION.TIME')),
+    'sha1sum' : '00aad5f42b1b1ccd08bbe0c9f891cdc5d10bda29',
     'suffix' : 'pars-outlierdetectionstep',
     'text_descr' : 'Outlier_detection params',
     'tpn' : 'niriss_pars-outlierdetectionstep.tpn',

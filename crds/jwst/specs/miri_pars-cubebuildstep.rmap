@@ -10,6 +10,7 @@ header = {
     'name' : 'jwst_miri_pars-cubebuildstep.rmap',
     'observatory' : 'JWST',
     'parkey' : (('META.EXPOSURE.TYPE',), ('META.OBSERVATION.DATE', 'META.OBSERVATION.TIME')),
+    'sha1sum' : 'b9af1a7889e49f9b7a2751a95be04a0049210f40',
     'suffix' : 'pars-cubebuildstep',
     'text_descr' : 'Cube_build params',
     'tpn' : 'miri_pars-cubebuildstep.tpn',

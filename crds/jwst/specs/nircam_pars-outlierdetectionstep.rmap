@@ -10,6 +10,7 @@ header = {
     'name' : 'jwst_nircam_pars-outlierdetectionstep.rmap',
     'observatory' : 'JWST',
     'parkey' : (('META.EXPOSURE.TYPE',), ('META.OBSERVATION.DATE', 'META.OBSERVATION.TIME')),
+    'sha1sum' : '908ed217db1af404ff37cd5b2afa96d5b5c68c42',
     'suffix' : 'pars-outlierdetectionstep',
     'text_descr' : 'Outlier_detection params',
     'tpn' : 'nircam_pars-outlierdetectionstep.tpn',

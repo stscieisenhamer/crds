@@ -10,6 +10,7 @@ header = {
     'name' : 'jwst_miri_pars-skymatchstep.rmap',
     'observatory' : 'JWST',
     'parkey' : (('META.EXPOSURE.TYPE',), ('META.OBSERVATION.DATE', 'META.OBSERVATION.TIME')),
+    'sha1sum' : '88d86b7b6d24ce853ae0da2458e5ad39f7cb3303',
     'suffix' : 'pars-skymatchstep',
     'text_descr' : 'Skymatch params',
     'tpn' : 'miri_pars-skymatchstep.tpn',

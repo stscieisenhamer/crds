@@ -10,6 +10,7 @@ header = {
     'name' : 'jwst_niriss_pars-sourcecatalogstep.rmap',
     'observatory' : 'JWST',
     'parkey' : (('META.EXPOSURE.TYPE',), ('META.OBSERVATION.DATE', 'META.OBSERVATION.TIME')),
+    'sha1sum' : 'fd5e1574db42aacc767d48bf1e4bb55588550454',
     'suffix' : 'pars-sourcecatalogstep',
     'text_descr' : 'Source_catalog params',
     'tpn' : 'niriss_pars-sourcecatalogstep.tpn',
