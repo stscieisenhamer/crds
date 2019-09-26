@@ -1,6 +1,6 @@
 header = {
     'classes' : ('Match', 'UseAfter'),
-    'derived_from' : 'Hand made 2019-09-25',
+    'derived_from' : 'Created on 2019-09-25',
     'file_ext' : '.asdf',
     'filekind' : 'PARS-CUBEBUILDSTEP',
     'filetype' : 'PARS-CUBEBUILDSTEP',
@@ -10,9 +10,8 @@ header = {
     'name' : 'jwst_nirspec_pars-cubebuildstep.rmap',
     'observatory' : 'JWST',
     'parkey' : (('META.EXPOSURE.TYPE',), ('META.OBSERVATION.DATE', 'META.OBSERVATION.TIME')),
-    'sha1sum' : '209ec40b4cf40a88d6abc1a08518cc7ab24f8c8e',
     'suffix' : 'pars-cubebuildstep',
-    'text_descr' : 'NIRSPEC cube building params',
+    'text_descr' : 'Cube_build params',
     'tpn' : 'nirspec_pars-cubebuildstep.tpn',
 }
 

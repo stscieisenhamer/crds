@@ -1,6 +1,6 @@
 header = {
     'classes' : ('Match', 'UseAfter'),
-    'derived_from' : 'Hand made 2019-09-25',
+    'derived_from' : 'Created on 2019-09-25',
     'file_ext' : '.asdf',
     'filekind' : 'PARS-SKYMATCHSTEP',
     'filetype' : 'PARS-SKYMATCHSTEP',
@@ -10,9 +10,8 @@ header = {
     'name' : 'jwst_niriss_pars-skymatchstep.rmap',
     'observatory' : 'JWST',
     'parkey' : (('META.EXPOSURE.TYPE',), ('META.OBSERVATION.DATE', 'META.OBSERVATION.TIME')),
-    'sha1sum' : 'babac9f629c9881e61d02706a0ee1a7a485e2edd',
     'suffix' : 'pars-skymatchstep',
-    'text_descr' : 'NIRISS imaging outlier detection params',
+    'text_descr' : 'Skymatch params',
     'tpn' : 'niriss_pars-skymatchstep.tpn',
 }
 

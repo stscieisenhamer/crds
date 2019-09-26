@@ -1,6 +1,6 @@
 header = {
     'classes' : ('Match', 'UseAfter'),
-    'derived_from' : 'Hand made 2019-09-25',
+    'derived_from' : 'Created on 2019-09-25',
     'file_ext' : '.asdf',
     'filekind' : 'PARS-SKYMATCHSTEP',
     'filetype' : 'PARS-SKYMATCHSTEP',
@@ -10,9 +10,8 @@ header = {
     'name' : 'jwst_miri_pars-skymatchstep.rmap',
     'observatory' : 'JWST',
     'parkey' : (('META.EXPOSURE.TYPE',), ('META.OBSERVATION.DATE', 'META.OBSERVATION.TIME')),
-    'sha1sum' : 'a9bf47189b761276f6eff5907303f5f191e87462',
     'suffix' : 'pars-skymatchstep',
-    'text_descr' : 'MIRI imaging outlier detection params',
+    'text_descr' : 'Skymatch params',
     'tpn' : 'miri_pars-skymatchstep.tpn',
 }
 
