@@ -10,6 +10,7 @@ header = {
     'name' : 'jwst_niriss_pars-skymatchstep.rmap',
     'observatory' : 'JWST',
     'parkey' : (('META.EXPOSURE.TYPE',), ('META.OBSERVATION.DATE', 'META.OBSERVATION.TIME')),
+    'sha1sum' : 'c37cbd396ddae0c0d55c0ec7ad5417be6786e86f',
     'suffix' : 'pars-skymatchstep',
     'text_descr' : 'Skymatch params',
     'tpn' : 'niriss_pars-skymatchstep.tpn',

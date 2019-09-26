@@ -10,6 +10,7 @@ header = {
     'name' : 'jwst_nircam_pars-tweakregstep.rmap',
     'observatory' : 'JWST',
     'parkey' : (('META.EXPOSURE.TYPE',), ('META.OBSERVATION.DATE', 'META.OBSERVATION.TIME')),
+    'sha1sum' : '2a22e9b3b4785c1e69317a764dfbdd52c287aaea',
     'suffix' : 'pars-tweakregstep',
     'text_descr' : 'Tweakreg params',
     'tpn' : 'nircam_pars-tweakregstep.tpn',

@@ -10,6 +10,7 @@ header = {
     'name' : 'jwst_niriss_pars-tweakregstep.rmap',
     'observatory' : 'JWST',
     'parkey' : (('META.EXPOSURE.TYPE',), ('META.OBSERVATION.DATE', 'META.OBSERVATION.TIME')),
+    'sha1sum' : 'd91f9a0dde6da236121de5408f61d27bbbb5cb4e',
     'suffix' : 'pars-tweakregstep',
     'text_descr' : 'Tweakreg params',
     'tpn' : 'niriss_pars-tweakregstep.tpn',

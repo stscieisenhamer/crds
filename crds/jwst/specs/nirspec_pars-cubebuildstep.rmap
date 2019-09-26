@@ -10,6 +10,7 @@ header = {
     'name' : 'jwst_nirspec_pars-cubebuildstep.rmap',
     'observatory' : 'JWST',
     'parkey' : (('META.EXPOSURE.TYPE',), ('META.OBSERVATION.DATE', 'META.OBSERVATION.TIME')),
+    'sha1sum' : '1298d5964f3fbc557218bd1ababf10169c9ba634',
     'suffix' : 'pars-cubebuildstep',
     'text_descr' : 'Cube_build params',
     'tpn' : 'nirspec_pars-cubebuildstep.tpn',

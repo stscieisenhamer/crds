@@ -10,6 +10,7 @@ header = {
     'name' : 'jwst_miri_pars-tweakregstep.rmap',
     'observatory' : 'JWST',
     'parkey' : (('META.EXPOSURE.TYPE',), ('META.OBSERVATION.DATE', 'META.OBSERVATION.TIME')),
+    'sha1sum' : '49a4194aecbf1c33043eab29fae583ed7946256b',
     'suffix' : 'pars-tweakregstep',
     'text_descr' : 'Tweakreg params',
     'tpn' : 'miri_pars-tweakregstep.tpn',

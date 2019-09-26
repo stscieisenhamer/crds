@@ -10,6 +10,7 @@ header = {
     'name' : 'jwst_miri_pars-sourcecatalogstep.rmap',
     'observatory' : 'JWST',
     'parkey' : (('META.EXPOSURE.TYPE',), ('META.OBSERVATION.DATE', 'META.OBSERVATION.TIME')),
+    'sha1sum' : '5ad510cbc93747ec771ee3f7e9780c60844d659f',
     'suffix' : 'pars-sourcecatalogstep',
     'text_descr' : 'Source_catalog params',
     'tpn' : 'miri_pars-sourcecatalogstep.tpn',

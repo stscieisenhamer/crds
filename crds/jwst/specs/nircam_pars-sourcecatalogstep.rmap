@@ -10,6 +10,7 @@ header = {
     'name' : 'jwst_nircam_pars-sourcecatalogstep.rmap',
     'observatory' : 'JWST',
     'parkey' : (('META.EXPOSURE.TYPE',), ('META.OBSERVATION.DATE', 'META.OBSERVATION.TIME')),
+    'sha1sum' : '5d260fa272bf846e6e99dafdd28835ae77588598',
     'suffix' : 'pars-sourcecatalogstep',
     'text_descr' : 'Source_catalog params',
     'tpn' : 'nircam_pars-sourcecatalogstep.tpn',

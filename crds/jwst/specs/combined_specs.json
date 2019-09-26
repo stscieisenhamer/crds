@@ -943,7 +943,7 @@
                 "Match",
                 "UseAfter"
             ],
-            "derived_from":"Hand made 2019-09-25",
+            "derived_from":"Created on 2019-09-25",
             "extra_keys":null,
             "file_ext":".asdf",
             "filekind":"PARS-CUBEBUILDSTEP",
@@ -962,40 +962,10 @@
                     "META.OBSERVATION.TIME"
                 ]
             ],
-            "sha1sum":"5eedb054b862a1a5868f9d6ce1b26e131ef9864f",
+            "sha1sum":"b9af1a7889e49f9b7a2751a95be04a0049210f40",
             "suffix":"pars-cubebuildstep",
-            "text_descr":"MIRI cube building params",
+            "text_descr":"Cube_build params",
             "tpn":"miri_pars-cubebuildstep.tpn",
-            "unique_rowkeys":null
-        },
-        "pars-detector1pipeline":{
-            "classes":[
-                "Match",
-                "UseAfter"
-            ],
-            "derived_from":"Hand made 2019-09-24",
-            "extra_keys":null,
-            "file_ext":".asdf",
-            "filekind":"PARS-DETECTOR1PIPELINE",
-            "filetype":"PARS-DETECTOR1PIPELINE",
-            "instrument":"MIRI",
-            "ld_tpn":"miri_pars-detector1pipeline_ld.tpn",
-            "mapping":"REFERENCE",
-            "name":"jwst_miri_pars-detector1pipeline.rmap",
-            "observatory":"JWST",
-            "parkey":[
-                [
-                    "META.EXPOSURE.TYPE"
-                ],
-                [
-                    "META.OBSERVATION.DATE",
-                    "META.OBSERVATION.TIME"
-                ]
-            ],
-            "sha1sum":"4e481e30dfb4b62d747cd535f45fd02ec02f1e25",
-            "suffix":"pars-detector1pipeline",
-            "text_descr":"Parameters for calibration pipeline Detector1Pipeline",
-            "tpn":"miri_pars-detector1pipeline.tpn",
             "unique_rowkeys":null
         },
         "pars-outlierdetectionstep":{
@@ -1003,7 +973,7 @@
                 "Match",
                 "UseAfter"
             ],
-            "derived_from":"Hand made 2019-09-25",
+            "derived_from":"Created on 2019-09-25",
             "extra_keys":null,
             "file_ext":".asdf",
             "filekind":"PARS-OUTLIERDETECTIONSTEP",
@@ -1022,9 +992,9 @@
                     "META.OBSERVATION.TIME"
                 ]
             ],
-            "sha1sum":"c43d3f82caa9f1d6953e6464c29cd2156d48cc4c",
+            "sha1sum":"1e4a526625b72662c17bd476c572543ede97c75a",
             "suffix":"pars-outlierdetectionstep",
-            "text_descr":"MIRI imaging outlier detection params",
+            "text_descr":"Outlier_detection params",
             "tpn":"miri_pars-outlierdetectionstep.tpn",
             "unique_rowkeys":null
         },
@@ -1063,7 +1033,7 @@
                 "Match",
                 "UseAfter"
             ],
-            "derived_from":"Hand made 2019-09-25",
+            "derived_from":"Created on 2019-09-25",
             "extra_keys":null,
             "file_ext":".asdf",
             "filekind":"PARS-SKYMATCHSTEP",
@@ -1082,9 +1052,9 @@
                     "META.OBSERVATION.TIME"
                 ]
             ],
-            "sha1sum":"a9bf47189b761276f6eff5907303f5f191e87462",
+            "sha1sum":"88d86b7b6d24ce853ae0da2458e5ad39f7cb3303",
             "suffix":"pars-skymatchstep",
-            "text_descr":"MIRI imaging outlier detection params",
+            "text_descr":"Skymatch params",
             "tpn":"miri_pars-skymatchstep.tpn",
             "unique_rowkeys":null
         },
@@ -1093,7 +1063,7 @@
                 "Match",
                 "UseAfter"
             ],
-            "derived_from":"Hand made 2019-09-25",
+            "derived_from":"Created on 2019-09-25",
             "extra_keys":null,
             "file_ext":".asdf",
             "filekind":"PARS-SOURCECATALOGSTEP",
@@ -1112,9 +1082,9 @@
                     "META.OBSERVATION.TIME"
                 ]
             ],
-            "sha1sum":"39cf8346a81dd9f682f14798b313b2b2cd1d6daf",
+            "sha1sum":"5ad510cbc93747ec771ee3f7e9780c60844d659f",
             "suffix":"pars-sourcecatalogstep",
-            "text_descr":"MIRI imaging outlier detection params",
+            "text_descr":"Source_catalog params",
             "tpn":"miri_pars-sourcecatalogstep.tpn",
             "unique_rowkeys":null
         },
@@ -1123,7 +1093,7 @@
                 "Match",
                 "UseAfter"
             ],
-            "derived_from":"Hand made 2019-09-25",
+            "derived_from":"Created on 2019-09-25",
             "extra_keys":null,
             "file_ext":".asdf",
             "filekind":"PARS-TWEAKREGSTEP",
@@ -1142,9 +1112,9 @@
                     "META.OBSERVATION.TIME"
                 ]
             ],
-            "sha1sum":"5a57cc0051a76b2c2cf20ef12126f60b8dd51ef9",
+            "sha1sum":"49a4194aecbf1c33043eab29fae583ed7946256b",
             "suffix":"pars-tweakregstep",
-            "text_descr":"MIRI imaging outlier detection params",
+            "text_descr":"Tweakreg params",
             "tpn":"miri_pars-tweakregstep.tpn",
             "unique_rowkeys":null
         },
@@ -1910,7 +1880,7 @@
                 "Match",
                 "UseAfter"
             ],
-            "derived_from":"Hand made 2019-09-25",
+            "derived_from":"Created on 2019-09-25",
             "extra_keys":null,
             "file_ext":".asdf",
             "filekind":"PARS-OUTLIERDETECTIONSTEP",
@@ -1929,9 +1899,9 @@
                     "META.OBSERVATION.TIME"
                 ]
             ],
-            "sha1sum":"0d325c13d9d4900500eadcb38a09f4c2c139b2c8",
+            "sha1sum":"908ed217db1af404ff37cd5b2afa96d5b5c68c42",
             "suffix":"pars-outlierdetectionstep",
-            "text_descr":"NIRCAM imaging outlier detection params",
+            "text_descr":"Outlier_detection params",
             "tpn":"nircam_pars-outlierdetectionstep.tpn",
             "unique_rowkeys":null
         },
@@ -1940,7 +1910,7 @@
                 "Match",
                 "UseAfter"
             ],
-            "derived_from":"Hand made 2019-09-25",
+            "derived_from":"Created on 2019-09-25",
             "extra_keys":null,
             "file_ext":".asdf",
             "filekind":"PARS-SKYMATCHSTEP",
@@ -1959,9 +1929,9 @@
                     "META.OBSERVATION.TIME"
                 ]
             ],
-            "sha1sum":"88c1fbea9060f40df2eaf202556038e82401375d",
+            "sha1sum":"0deaf80bbae4c4e495fe25c951192e7c6f790d02",
             "suffix":"pars-skymatchstep",
-            "text_descr":"NIRCAM imaging outlier detection params",
+            "text_descr":"Skymatch params",
             "tpn":"nircam_pars-skymatchstep.tpn",
             "unique_rowkeys":null
         },
@@ -1970,7 +1940,7 @@
                 "Match",
                 "UseAfter"
             ],
-            "derived_from":"Hand made 2019-09-25",
+            "derived_from":"Created on 2019-09-25",
             "extra_keys":null,
             "file_ext":".asdf",
             "filekind":"PARS-SOURCECATALOGSTEP",
@@ -1989,9 +1959,9 @@
                     "META.OBSERVATION.TIME"
                 ]
             ],
-            "sha1sum":"77f6ea9fe430e64ab3ddf76c95d958897a255746",
+            "sha1sum":"5d260fa272bf846e6e99dafdd28835ae77588598",
             "suffix":"pars-sourcecatalogstep",
-            "text_descr":"NIRCAM imaging outlier detection params",
+            "text_descr":"Source_catalog params",
             "tpn":"nircam_pars-sourcecatalogstep.tpn",
             "unique_rowkeys":null
         },
@@ -2000,7 +1970,7 @@
                 "Match",
                 "UseAfter"
             ],
-            "derived_from":"Hand made 2019-09-25",
+            "derived_from":"Created on 2019-09-25",
             "extra_keys":null,
             "file_ext":".asdf",
             "filekind":"PARS-TWEAKREGSTEP",
@@ -2019,9 +1989,9 @@
                     "META.OBSERVATION.TIME"
                 ]
             ],
-            "sha1sum":"b721f386135c116fda5494fae32a8f4bcff017e2",
+            "sha1sum":"2a22e9b3b4785c1e69317a764dfbdd52c287aaea",
             "suffix":"pars-tweakregstep",
-            "text_descr":"NIRCAM imaging outlier detection params",
+            "text_descr":"Tweakreg params",
             "tpn":"nircam_pars-tweakregstep.tpn",
             "unique_rowkeys":null
         },
@@ -2658,7 +2628,7 @@
                 "Match",
                 "UseAfter"
             ],
-            "derived_from":"Hand made 2019-09-25",
+            "derived_from":"Created on 2019-09-25",
             "extra_keys":null,
             "file_ext":".asdf",
             "filekind":"PARS-OUTLIERDETECTIONSTEP",
@@ -2677,9 +2647,9 @@
                     "META.OBSERVATION.TIME"
                 ]
             ],
-            "sha1sum":"f0f8a320ebca96099eff63fe21d315ffc1674bb8",
+            "sha1sum":"00aad5f42b1b1ccd08bbe0c9f891cdc5d10bda29",
             "suffix":"pars-outlierdetectionstep",
-            "text_descr":"NIRISS imaging outlier detection params",
+            "text_descr":"Outlier_detection params",
             "tpn":"niriss_pars-outlierdetectionstep.tpn",
             "unique_rowkeys":null
         },
@@ -2688,7 +2658,7 @@
                 "Match",
                 "UseAfter"
             ],
-            "derived_from":"Hand made 2019-09-25",
+            "derived_from":"Created on 2019-09-25",
             "extra_keys":null,
             "file_ext":".asdf",
             "filekind":"PARS-SKYMATCHSTEP",
@@ -2707,9 +2677,9 @@
                     "META.OBSERVATION.TIME"
                 ]
             ],
-            "sha1sum":"babac9f629c9881e61d02706a0ee1a7a485e2edd",
+            "sha1sum":"c37cbd396ddae0c0d55c0ec7ad5417be6786e86f",
             "suffix":"pars-skymatchstep",
-            "text_descr":"NIRISS imaging outlier detection params",
+            "text_descr":"Skymatch params",
             "tpn":"niriss_pars-skymatchstep.tpn",
             "unique_rowkeys":null
         },
@@ -2718,7 +2688,7 @@
                 "Match",
                 "UseAfter"
             ],
-            "derived_from":"Hand made 2019-09-25",
+            "derived_from":"Created on 2019-09-25",
             "extra_keys":null,
             "file_ext":".asdf",
             "filekind":"PARS-SOURCECATALOGSTEP",
@@ -2737,9 +2707,9 @@
                     "META.OBSERVATION.TIME"
                 ]
             ],
-            "sha1sum":"c3e14877f50835a56d3203a0f330406c2c97727a",
+            "sha1sum":"fd5e1574db42aacc767d48bf1e4bb55588550454",
             "suffix":"pars-sourcecatalogstep",
-            "text_descr":"NIRISS imaging outlier detection params",
+            "text_descr":"Source_catalog params",
             "tpn":"niriss_pars-sourcecatalogstep.tpn",
             "unique_rowkeys":null
         },
@@ -2748,7 +2718,7 @@
                 "Match",
                 "UseAfter"
             ],
-            "derived_from":"Hand made 2019-09-25",
+            "derived_from":"Created on 2019-09-25",
             "extra_keys":null,
             "file_ext":".asdf",
             "filekind":"PARS-TWEAKREGSTEP",
@@ -2767,9 +2737,9 @@
                     "META.OBSERVATION.TIME"
                 ]
             ],
-            "sha1sum":"2c3c73dbfebdba76f3453f7d1384b114bf430d63",
+            "sha1sum":"d91f9a0dde6da236121de5408f61d27bbbb5cb4e",
             "suffix":"pars-tweakregstep",
-            "text_descr":"NIRISS imaging outlier detection params",
+            "text_descr":"Tweakreg params",
             "tpn":"niriss_pars-tweakregstep.tpn",
             "unique_rowkeys":null
         },
@@ -3847,7 +3817,7 @@
                 "Match",
                 "UseAfter"
             ],
-            "derived_from":"Hand made 2019-09-25",
+            "derived_from":"Created on 2019-09-25",
             "extra_keys":null,
             "file_ext":".asdf",
             "filekind":"PARS-CUBEBUILDSTEP",
@@ -3866,9 +3836,9 @@
                     "META.OBSERVATION.TIME"
                 ]
             ],
-            "sha1sum":"209ec40b4cf40a88d6abc1a08518cc7ab24f8c8e",
+            "sha1sum":"1298d5964f3fbc557218bd1ababf10169c9ba634",
             "suffix":"pars-cubebuildstep",
-            "text_descr":"NIRSPEC cube building params",
+            "text_descr":"Cube_build params",
             "tpn":"nirspec_pars-cubebuildstep.tpn",
             "unique_rowkeys":null
         },

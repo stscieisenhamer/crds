@@ -10,6 +10,7 @@ header = {
     'name' : 'jwst_miri_pars-outlierdetectionstep.rmap',
     'observatory' : 'JWST',
     'parkey' : (('META.EXPOSURE.TYPE',), ('META.OBSERVATION.DATE', 'META.OBSERVATION.TIME')),
+    'sha1sum' : '1e4a526625b72662c17bd476c572543ede97c75a',
     'suffix' : 'pars-outlierdetectionstep',
     'text_descr' : 'Outlier_detection params',
     'tpn' : 'miri_pars-outlierdetectionstep.tpn',
