@@ -1,0 +1,20 @@
+header = {
+    'classes' : ('Match', 'UseAfter'),
+    'derived_from' : 'Created on 2019-10-21',
+    'file_ext' : '.asdf',
+    'filekind' : 'PARS-REFPIXSTEP',
+    'filetype' : 'PARS-REFPIXSTEP',
+    'instrument' : 'NIRSPEC',
+    'ld_tpn' : 'nirspec_pars-refpixstep_ld.tpn',
+    'mapping' : 'REFERENCE',
+    'name' : 'jwst_nirspec_pars-refpixstep.rmap',
+    'observatory' : 'JWST',
+    'parkey' : (('META.EXPOSURE.TYPE',), ('META.OBSERVATION.DATE', 'META.OBSERVATION.TIME')),
+    'sha1sum' : '49a4194aecbf1c33043eab29fae583ed7946256b',
+    'suffix' : 'pars-refpixstep',
+    'text_descr' : 'Refpix params',
+    'tpn' : 'nirspec_pars-refpixstep.tpn',
+}
+
+selector = Match({
+})
