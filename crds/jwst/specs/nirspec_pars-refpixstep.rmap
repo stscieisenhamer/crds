@@ -10,7 +10,7 @@ header = {
     'name' : 'jwst_nirspec_pars-refpixstep.rmap',
     'observatory' : 'JWST',
     'parkey' : (('META.EXPOSURE.TYPE',), ('META.OBSERVATION.DATE', 'META.OBSERVATION.TIME')),
-    'sha1sum' : '49a4194aecbf1c33043eab29fae583ed7946256b',
+    'sha1sum' : '82b0bf55c267b079557e22d3165a1adefc743ffc',
     'suffix' : 'pars-refpixstep',
     'text_descr' : 'Refpix params',
     'tpn' : 'nirspec_pars-refpixstep.tpn',
