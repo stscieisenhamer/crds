@@ -78,25 +78,29 @@ setup_pars = {
     "scripts" : glob.glob("scripts/*"),
     }
 
+TEST_DEPS = ["lockfile", "mock", "nose", "pytest", "pylint", "flake8", "bandit"]
+
+SUBMISSION_DEPS = ["requests", "lxml", "parsley"]
+
 setup(name="crds",
       provides=["crds"],
-      version = '7.4.1.1',
+      version = '7.4.1.2',
       description="Calibration Reference Data System,  HST/JWST reference file management",
       long_description=open('README.rst').read(),
       author="Todd Miller",
       author_email="jmiller@stsci.edu",
       url="https://hst-crds.stsci.edu",
       license="BSD",
-      install_requires=["astropy", "numpy", "filelock"],
+      install_requires=["astropy", "numpy", "filelock"] + SUBMISSION_DEPS,
       extras_require={
           "jwst": ["jwst"],
           "submission": ["requests", "lxml", "parsley"],
-          "dev" : ["ipython", "jupyter"],
-          "test" : ["lockfile", "mock", "nose", "pytest", "pylint", "flake8"],
+          "dev" : ["ipython","jupyterlab","ansible","helm"],
+          "test" : TEST_DEPS,
           "docs" : ["sphinx","sphinx_rtd_theme","docutils"],
-          "aws" : ["boto3"]
+          "aws" : ["boto3","awscli"],
       },
-      tests_require=["lockfile", "mock", "nose", "pytest", "pylint", "flake8"],
+      tests_require=TEST_DEPS,
       zip_safe=False,
       classifiers=[
           'Intended Audience :: Science/Research',
