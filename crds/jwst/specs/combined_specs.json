@@ -3866,7 +3866,7 @@
                     "META.OBSERVATION.TIME"
                 ]
             ],
-            "sha1sum":"82b0bf55c267b079557e22d3165a1adefc743ffc",
+            "sha1sum":"49f15bc3dc81278b2f7937d9ae4760bc82505a75",
             "suffix":"pars-refpixstep",
             "text_descr":"Refpix params",
             "tpn":"nirspec_pars-refpixstep.tpn",
