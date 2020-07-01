@@ -3704,6 +3704,34 @@
             "tpn":"nirspec_ote.tpn",
             "unique_rowkeys":null
         },
+        "pars-spec2pipeline":{
+            "derived_from":"Hand made 2020-06-19",
+            "extra_keys":null,
+            "file_ext":".asdf",
+            "filekind":"pars-spec2pipeline",
+            "filetype":"PARS-SPEC2PIPELINE",
+            "instrument":"NIRSPEC",
+            "ld_tpn":"nirspec_pars-spec2pipeline_ld.tpn",
+            "mapping":"REFERENCE",
+            "name":"jwst_nirspec_pars-spec2pipeline.rmap",
+            "observatory":"JWST",
+            "parkey":[
+                [
+                    "META.EXPOSURE.TYPE",
+                    "META.INSTRUMENT.LAMP_MODE",
+                    "META.INSTRUMENT.LAMP_STATE"
+                ],
+                [
+                    "META.OBSERVATION.DATE",
+                    "META.OBSERVATION.TIME"
+                ]
+            ],
+            "sha1sum":"d4575df2ab497212b01ba3bf09965839d34c79f1",
+            "suffix":"pars-spec2pipeline",
+            "text_descr":"Spec2Pipeline runtime parameters",
+            "tpn":"nirspec_pars-spec2pipeline.tpn",
+            "unique_rowkeys":null
+        },
         "pathloss":{
             "classes":[
                 "Match",
